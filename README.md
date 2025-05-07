@@ -47,7 +47,6 @@ O **Cadastro de Usuários** facilita a gestão de dados de usuários, permitindo
 5. Acesse o aplicativo em seu navegador e gerencie os usuários!
 
 Exemplo funcional:
-   ```sh
    [Cadastro de Usuarios](https://cdsconsulting.com.br/usuarios/)
 
 📌 Melhorias futuras
