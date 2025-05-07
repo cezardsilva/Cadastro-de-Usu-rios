@@ -27,7 +27,7 @@ O **Cadastro de Usuários** facilita a gestão de dados de usuários, permitindo
 
 1. Clone este repositório:
    ```sh
-    git clone https://github.com/seu-usuario/cadastro-usuarios.git
+    git clone https://github.com/cezardsilva/cadastro-usuarios.git
 
 2. Instale as dependências do frontend e backend:
    ```sh
